@@ -1,4 +1,4 @@
 def My_print_name():
-    name = input("mettez votre nom")
+    name = input("mettez votre nom: ")
     return(name)
-My_print_name()
+print(My_print_name())
